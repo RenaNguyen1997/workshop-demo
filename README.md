@@ -1,2 +1,1 @@
-# workshop-demo
-Cloud Analytics for practice on Github and Azure 
+# BUS5001 - Tutorial week 4
